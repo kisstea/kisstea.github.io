@@ -1,11 +1,10 @@
 markdown: rdiscount
 highlighter: true
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "kisstea"
 markdown: rdiscount
 
 author: "wayne"
-atom-baseurl: "http://lhzhang.com"
 disqus: "gopherwood"
 
 navigations:
@@ -18,9 +17,6 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: http://foto.lhzhang.com
   - title: Blogroll
     class: fa fa-link
     href: /links.html
