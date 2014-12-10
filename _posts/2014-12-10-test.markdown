@@ -1,0 +1,8 @@
+---
+title: a blog for test
+layout: post
+tags:
+---
+
+![](/media/files/2014/12/10/test.jpg)
+first test
